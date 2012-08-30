@@ -1,0 +1,28 @@
+body {
+	max-width: 100%;
+	margin: 0 auto;
+	background-color: #00782d;
+}
+
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: #fff;
+}
+
+h1 {
+	font-family: arial;
+}
+
+h2 {
+	font-family: arial;
+}
+
+p {
+	font-family: arial;
+}
+
+ul {
+	font-family: arial;
+}
